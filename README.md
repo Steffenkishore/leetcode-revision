@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Steffenkishore/leetcode-revision/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/Steffenkishore/leetcode-revision/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/Steffenkishore/leetcode-revision/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Steffenkishore/leetcode-revision/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Steffenkishore/leetcode-revision/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Steffenkishore/leetcode-revision/tree/master/0316-remove-duplicate-letters) |
 ## Linked List
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Steffenkishore/leetcode-revision/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Steffenkishore/leetcode-revision/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
