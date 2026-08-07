@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Steffenkishore/leetcode-revision/tree/master/0316-remove-duplicate-letters) |
+| [0415-add-strings](https://github.com/Steffenkishore/leetcode-revision/tree/master/0415-add-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Steffenkishore/leetcode-revision/tree/master/0100-same-tree) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Steffenkishore/leetcode-revision/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Steffenkishore/leetcode-revision/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
