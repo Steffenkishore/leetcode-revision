@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Steffenkishore/leetcode-revision/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Steffenkishore/leetcode-revision/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Steffenkishore/leetcode-revision/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Steffenkishore/leetcode-revision/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Steffenkishore/leetcode-revision/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Steffenkishore/leetcode-revision/tree/master/0560-subarray-sum-equals-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Steffenkishore/leetcode-revision/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Steffenkishore/leetcode-revision/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
